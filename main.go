@@ -2,9 +2,9 @@ package main
 
 import (
 	"fmt"
-	sayHello "github.com/ariesastra/go-module"
+	say_hello "github.com/ariesastra/go-module/v2"
 )
 
 func main() {
-	fmt.Println(sayHello.SayHello())
+	fmt.Println(say_hello.SayHello("Kaylin"))
 }

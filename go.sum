@@ -1,4 +1,2 @@
-github.com/ariesastra/go-module v1.0.0 h1:8nRRff9iCYvjRF8e3yz9RwaeYzeBz9eSPrBCO9fjq4E=
-github.com/ariesastra/go-module v1.0.0/go.mod h1:xBMhoe0AxtFZXXDplkqnRan0/uDIuVDB/LVt+9ltMbA=
-github.com/ariesastra/go-module v1.0.2 h1:O7mYOUPCzSUVkMEdza7enZHZR3cEC8NgvV3qiNNJukI=
-github.com/ariesastra/go-module v1.0.2/go.mod h1:xBMhoe0AxtFZXXDplkqnRan0/uDIuVDB/LVt+9ltMbA=
+github.com/ariesastra/go-module/v2 v2.0.0 h1:/8MmB4qJslpP80O3yFZ3bT63Dh41RXMx9I2cLByg+T8=
+github.com/ariesastra/go-module/v2 v2.0.0/go.mod h1:P2J8fQpMq0zFUiMZb3y1Va+Gu/oamdTuG9AHU2E1r5M=
